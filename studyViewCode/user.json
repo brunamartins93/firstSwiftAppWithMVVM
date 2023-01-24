@@ -1,0 +1,22 @@
+{
+    "group": [
+        {
+            "id": 1,
+            "name": "Caio",
+            "age": 30,
+            "profession": "Developer IOS",
+            "salary": "20.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": true
+        },
+        {
+            "id": 2,
+            "name": "Bruna",
+            "age": 29,
+            "profession": "Developer IOS",
+            "salary": "30.000,00",
+            "imageUser": "person.circle",
+            "isEnableHeart": false
+        }
+    ]
+}
